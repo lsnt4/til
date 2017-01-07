@@ -3,7 +3,7 @@
 ### Question:
 Accidently when we create Docker images without a tag, sometimes it's not that much easy to remove that particular image. Even we used the `-f` flag, image removal will fail with a warning.
 
-In this case, let's assume that we have a image called `foo-image` without a tag.
+In this case, let's assume that we have an image called `foo-image` without a tag.
 
 ```shell
 $ docker images

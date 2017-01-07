@@ -11,9 +11,14 @@ _1 TILs and counting..._
 ### Categories
 
 * [Docker](#docker)
+* [Unix](#unix)
 
 ---
 
 ### Docker
 
 - [Remove <none> Tagged Docker Images](docker/remove-none-tagged-docker-images.md)
+
+### Unix
+
+- [Compress Files with 7Zip](unix/compress-files-with-7zip.md)
