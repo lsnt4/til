@@ -4,13 +4,14 @@
 
 Little things I learn day by day. Original concept stolen from [jwworth/til](https://github.com/jwworth/til), [jbranchaud/til](https://github.com/jbranchaud/til) and few other places.
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Docker](#docker)
+* [SQL](#sql)
 * [Unix](#unix)
 
 ---
@@ -18,6 +19,10 @@ _3 TILs and counting..._
 ### Docker
 
 - [Remove <none> Tagged Docker Images](docker/remove-none-tagged-docker-images.md)
+
+### SQL
+
+- [Copy SQL Data From One Table to Another Table](sql/copy-sql-data-from-one-table-to-another-table.md)
 
 ### Unix
 
