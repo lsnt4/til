@@ -19,7 +19,7 @@ _6 TILs and counting..._
 
 ### Docker
 
-- [Remove <none> Tagged Docker Images](docker/remove-none-tagged-docker-images.md)
+- [Remove "none" Tagged Docker Images](docker/remove-none-tagged-docker-images.md)
 
 ### Linux
 
