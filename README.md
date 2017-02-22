@@ -4,7 +4,7 @@
 
 Little things I learn day by day. Original concept stolen from [jwworth/til](https://github.com/jwworth/til), [jbranchaud/til](https://github.com/jbranchaud/til) and few other places.
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -13,6 +13,7 @@ _8 TILs and counting..._
 * [Docker](#docker)
 * [Java](#java)
 * [Linux](#linux)
+* [QT](#qt)
 * [SQL](#sql)
 * [Unix](#unix)
 
@@ -30,6 +31,10 @@ _8 TILs and counting..._
 
 - [Change MAC Address on Ubuntu](linux/change-mac-address-On-ubuntu.md)
 - [Force APT to Use IPv4 Instead of IPv6 on Ubuntu](linux/force-apt-to-use-ipv4-instead-of-ipv6-on-ubuntu.md)
+
+### QT
+
+- [How to Install libqsqlmysql.so on Ubuntu](/qt/how-to-install-libqsqlmysql.so-on-ubuntu.md)
 
 ### SQL
 
