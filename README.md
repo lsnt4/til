@@ -4,7 +4,7 @@
 
 Little things I learn day by day. Original concept stolen from [jwworth/til](https://github.com/jwworth/til), [jbranchaud/til](https://github.com/jbranchaud/til) and few other places.
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
@@ -12,6 +12,7 @@ _11 TILs and counting..._
 
 * [Docker](#docker)
 * [Java](#java)
+* [Laravel](#laravel)
 * [Linux](#linux)
 * [QT](#qt)
 * [SQL](#sql)
@@ -28,6 +29,10 @@ _11 TILs and counting..._
 ### Java
 
 - [How to Center a jFrame at Startup in Netbeans](java/how-to-center-a-jframe-at-startup-in-netbeans.md)
+
+### Laravel
+
+- [How to Fix Laravel 'maximum column size' Error](laravel/how-to-fix-laravel-maximum-column-size-error.md)
 
 ### Linux
 
