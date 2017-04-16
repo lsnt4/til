@@ -1,20 +1,7 @@
-# Copy SQL Data From One Table to Another Table
+# Replace A Specific Part From A Table
 
 ```sql
-INSERT INTO `database`.`table_new`(`colA`,`colB`,`colC`)
-SELECT `colA`,`colB`,`colC`
-FROM `database`.`table_old`
+UPDATE table SET column=REPLACE(column,'APS','');
 ```
 
-> This works even between tables with different column structures. Only related columns **must be same**.
-
-Another example with more tables
-
-```sql
-INSERT INTO `table_new`(`colA`,`colB`,`colC`,`colD`)
-SELECT `colA`,`colB`,`colC`,`colD` FROM `table_old_1`
-UNION ALL
-SELECT `colA`,`colB`,`colC`,`colD` FROM `table_old_2`
-UNION ALL
-SELECT `colA`,`colB`,`colC`,`colD` FROM `table_old_3`;
-```
+Source: [StackOverflow](http://stackoverflow.com/a/6681980/3683435)

@@ -4,7 +4,7 @@
 
 Little things I learn day by day. Original concept stolen from [jwworth/til](https://github.com/jwworth/til), [jbranchaud/til](https://github.com/jbranchaud/til) and few other places.
 
-_12 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -46,6 +46,8 @@ _12 TILs and counting..._
 ### SQL
 
 - [Copy SQL Data From One Table to Another Table](sql/copy-sql-data-from-one-table-to-another-table.md)
+- [Replace A Specific Part From A Table](sql/replace-a-specific-part-from-a-table.md)
+- [Import All SQL Files In A Directory Into MySQL](sql/import-all-sql-files-in-a-directory-into-mysql.md)
 
 ### Unix
 
