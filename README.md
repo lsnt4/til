@@ -26,6 +26,7 @@ _15 TILs and counting..._
 - [Remove "none" Tagged Docker Images](docker/remove-none-tagged-docker-images.md)
 - [Access MySQL Databases From Host PC](docker/access-mysql-databases-from-host-pc.md)
 - [Backup & Restore MySQL Databases](docker/backup-restore-mysql-databases.md)
+- [Update Restart Policy](docker/update-restart-policy.md)
 
 ### Java
 
