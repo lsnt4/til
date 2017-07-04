@@ -4,7 +4,7 @@
 
 Little things I learn day by day. Original concept stolen from [jwworth/til](https://github.com/jwworth/til), [jbranchaud/til](https://github.com/jbranchaud/til) and few other places.
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _16 TILs and counting..._
 - [Access MySQL Databases From Host PC](docker/access-mysql-databases-from-host-pc.md)
 - [Backup & Restore MySQL Databases](docker/backup-restore-mysql-databases.md)
 - [Update Restart Policy](docker/update-restart-policy.md)
+- [Continuous Log Monitoring](docker/continuous-log-monitoring.md)
 
 ### Java
 
